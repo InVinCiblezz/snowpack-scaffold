@@ -1,4 +1,4 @@
-# GNAT
+# Snowpack Scaffold
 
 ## Start
 
